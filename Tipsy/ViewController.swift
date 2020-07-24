@@ -2,19 +2,16 @@
 //  ViewController.swift
 //  Tipsy
 //
-//  Created by Angela Yu on 09/09/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Jeremy Rufo
+//  Copyright © 2020 Jeremy Rufo
 //
 
 import UIKit
 
-class ViewController: UIViewController {
-
-    override func viewDidLoad() {
+class ViewController: UIViewController
+{
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
-
